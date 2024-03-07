@@ -1,0 +1,23 @@
+{
+  "name": "aves-discord-bot",
+  "version": "1.0.0",
+  "description": "Aves Discord Bot made by AaTherf37",
+  "main": "Aves.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsAtharv37/Aves-Discord-Bot.git"
+  },
+  "author": "AaTherf37",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsAtharv37/Aves-Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/itsAtharv37/Aves-Discord-Bot#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}
